@@ -2,7 +2,7 @@ baseurl = "https://zimablur.com"
 languageCode = "en-us"
 theme = "terminal"
 paginate = 5
-disqusShortname = "mrsinapse"
+disqusShortname = "zimablur"
 
 [params]
   # dir name of your main content (default is `content/posts`).
