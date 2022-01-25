@@ -54,8 +54,8 @@ paginate = 5
 [languages]
   [languages.en]
     languageName = "English"
-    title = "Terminal"
-    subtitle = "A simple, retro theme for Hugo"
+    title = "ZimaBlur"
+    subtitle = "Where I Speak my Mind"
     owner = ""
     keywords = ""
     copyright = ""
@@ -68,7 +68,7 @@ paginate = 5
     missingBackButtonLabel = "Back to home page"
 
     [languages.en.params.logo]
-      logoText = "Terminal"
+      logoText = "ZimaBlur"
       logoHomeLink = "/"
 
     [languages.en.menu]
@@ -76,7 +76,3 @@ paginate = 5
         identifier = "about"
         name = "About"
         url = "/about"
-      [[languages.en.menu.main]]
-        identifier = "showcase"
-        name = "Showcase"
-        url = "/showcase"
