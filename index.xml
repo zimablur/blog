@@ -1,1 +1,17 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Terminal</title><link>https://zimablur.com/</link><description>Recent content on Terminal</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 21 Jan 2022 20:01:31 +0200</lastBuildDate><atom:link href="https://zimablur.com/index.xml" rel="self" type="application/rss+xml"/><item><title>My First Post</title><link>https://zimablur.com/posts/my-first-post/</link><pubDate>Fri, 21 Jan 2022 20:01:31 +0200</pubDate><guid>https://zimablur.com/posts/my-first-post/</guid><description>Hi! How are you</description><content>&lt;p>Hi! How are you&lt;/p></content></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Terminal</title><link>https://zimablur.com/</link><description>Recent content on Terminal</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 21 Jan 2022 20:01:31 +0200</lastBuildDate><atom:link href="https://zimablur.com/index.xml" rel="self" type="application/rss+xml"/><item><title>My First Post</title><link>https://zimablur.com/posts/my-first-post/</link><pubDate>Fri, 21 Jan 2022 20:01:31 +0200</pubDate><guid>https://zimablur.com/posts/my-first-post/</guid><description>Hi! How are you var __semio__params = { graphcommentId: "zimablur", behaviour: { }, } function __semio__onload() { __semio__gc_graphlogin(__semio__params) } (function() { var gc = document.createElement('script'); gc.type = 'text/javascript'; gc.async = true; gc.onload = __semio__onload; gc.defer = true; gc.src = 'https://integration.graphcomment.com/gc_graphlogin.js?' + Date.now(); (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(gc); })();</description><content>&lt;p>Hi! How are you
+&lt;div id="graphcomment">&lt;/div>
+&lt;script type="text/javascript">
+var __semio__params = {
+graphcommentId: "zimablur",
+behaviour: {
+},
+}
+function __semio__onload() {
+__semio__gc_graphlogin(__semio__params)
+}
+(function() {
+var gc = document.createElement('script'); gc.type = 'text/javascript'; gc.async = true;
+gc.onload = __semio__onload; gc.defer = true; gc.src = 'https://integration.graphcomment.com/gc_graphlogin.js?' + Date.now();
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(gc);
+})();
+&lt;/script>&lt;/p></content></item></channel></rss>
