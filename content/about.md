@@ -1,8 +1,8 @@
 ---
 title: "About This Blog"
 date: 2022-03-10T14:07:28+02:00
-showFullContent = true
-readingTime = true
+showFullContent: true
+readingTime: true
 ---
 If you ask me, starting something new, if not the most, can be among the most challenging parts of it! It's like a static friction that you might feel, simply because you are not used to what follows. I think that might be the reason why I am struggling now with the sentences I should write about starting this blog, to talk about what is the context behind it, why am I doing it and what I want to achieve.
 
