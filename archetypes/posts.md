@@ -1,7 +1,6 @@
 +++
-title = "My First Post"
-date = "2022-01-21T20:01:31+02:00"
-author = "Sina Tavakoli"
+title = "{{ replace .Name "-" " " | title }}"
+date = {{ .Date }}
 cover = ""
 tags = ["", ""]
 keywords = ["", ""]
