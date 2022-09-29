@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on ZimaBlur</title><link>https://zimablur.com/posts/</link><description>Recent content in Posts on ZimaBlur</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 29 Sep 2022 16:23:08 +0300</lastBuildDate><atom:link href="https://zimablur.com/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>My Third Post</title><link>https://zimablur.com/posts/my-third-post/</link><pubDate>Thu, 29 Sep 2022 16:23:08 +0300</pubDate><guid>https://zimablur.com/posts/my-third-post/</guid><description/><content>&lt;div id="graphcomment">&lt;/div>
+&lt;script type="text/javascript">
+var __semio__params = {
+graphcommentId: "zimablur",
+behaviour: {
+},
+}
+function __semio__onload() {
+__semio__gc_graphlogin(__semio__params)
+}
+(function() {
+var gc = document.createElement('script'); gc.type = 'text/javascript'; gc.async = true;
+gc.onload = __semio__onload; gc.defer = true; gc.src = 'https://integration.graphcomment.com/gc_graphlogin.js?' + Date.now();
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(gc);
+})();
+&lt;/script></content></item><item><title>My Second Post</title><link>https://zimablur.com/posts/my-second-post/</link><pubDate>Tue, 25 Jan 2022 17:55:31 +0200</pubDate><guid>https://zimablur.com/posts/my-second-post/</guid><description>Hi! How are you again!</description><content>&lt;p>Hi! How are you again!
+&lt;div id="graphcomment">&lt;/div>
+&lt;script type="text/javascript">
+var __semio__params = {
+graphcommentId: "zimablur",
+behaviour: {
+},
+}
+function __semio__onload() {
+__semio__gc_graphlogin(__semio__params)
+}
+(function() {
+var gc = document.createElement('script'); gc.type = 'text/javascript'; gc.async = true;
+gc.onload = __semio__onload; gc.defer = true; gc.src = 'https://integration.graphcomment.com/gc_graphlogin.js?' + Date.now();
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(gc);
+})();
+&lt;/script>&lt;/p></content></item><item><title>My First Post</title><link>https://zimablur.com/posts/my-first-post/</link><pubDate>Fri, 21 Jan 2022 20:01:31 +0200</pubDate><guid>https://zimablur.com/posts/my-first-post/</guid><description>Hi! How are you</description><content>&lt;p>Hi! How are you
+&lt;div id="graphcomment">&lt;/div>
+&lt;script type="text/javascript">
+var __semio__params = {
+graphcommentId: "zimablur",
+behaviour: {
+},
+}
+function __semio__onload() {
+__semio__gc_graphlogin(__semio__params)
+}
+(function() {
+var gc = document.createElement('script'); gc.type = 'text/javascript'; gc.async = true;
+gc.onload = __semio__onload; gc.defer = true; gc.src = 'https://integration.graphcomment.com/gc_graphlogin.js?' + Date.now();
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(gc);
+})();
+&lt;/script>&lt;/p></content></item></channel></rss>
