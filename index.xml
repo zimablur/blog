@@ -1,23 +1,8 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ZimaBlur</title><link>https://zimablur.com/</link><description>Recent content on ZimaBlur</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 29 Sep 2022 16:23:08 +0300</lastBuildDate><atom:link href="https://zimablur.com/index.xml" rel="self" type="application/rss+xml"/><item><title>My Third Post</title><link>https://zimablur.com/posts/my-third-post/</link><pubDate>Thu, 29 Sep 2022 16:23:08 +0300</pubDate><guid>https://zimablur.com/posts/my-third-post/</guid><description/><content>&lt;div id="graphcomment">&lt;/div>
-&lt;script type="text/javascript">
-var __semio__params = {
-graphcommentId: "zimablur",
-behaviour: {
-},
-}
-function __semio__onload() {
-__semio__gc_graphlogin(__semio__params)
-}
-(function() {
-var gc = document.createElement('script'); gc.type = 'text/javascript'; gc.async = true;
-gc.onload = __semio__onload; gc.defer = true; gc.src = 'https://integration.graphcomment.com/gc_graphlogin.js?' + Date.now();
-(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(gc);
-})();
-&lt;/script></content></item><item><title>About This Blog</title><link>https://zimablur.com/about/</link><pubDate>Thu, 10 Mar 2022 14:07:28 +0200</pubDate><guid>https://zimablur.com/about/</guid><description>If you ask me, starting something new, if not the most, can be among the most challenging parts of it! It&amp;rsquo;s like a static friction that you might feel, simply because you are not used to what follows. I think that might be the reason why I am struggling now with the sentences I should write about starting this blog, to talk about what is the context behind it, why am I doing it and what I want to achieve.</description><content>&lt;p>If you ask me, starting something new, if not the most, can be among the most challenging parts of it! It&amp;rsquo;s like a static friction that you might feel, simply because you are not used to what follows. I think that might be the reason why I am struggling now with the sentences I should write about starting this blog, to talk about what is the context behind it, why am I doing it and what I want to achieve.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ZimaBlur</title><link>https://zimablur.com/</link><description>Recent content on ZimaBlur</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://zimablur.com/index.xml" rel="self" type="application/rss+xml"/><item><title>About This Blog</title><link>https://zimablur.com/about/</link><pubDate>Thu, 10 Mar 2022 14:07:28 +0200</pubDate><guid>https://zimablur.com/about/</guid><description>If you ask me, starting something new, if not the most, can be among the most challenging parts of it! It&amp;rsquo;s like a static friction that you might feel, simply because you are not used to what follows. I think that might be the reason why I am struggling now with the sentences I should write about starting this blog, to talk about what is the context behind it, why am I doing it and what I want to achieve.</description><content>&lt;p>If you ask me, starting something new, if not the most, can be among the most challenging parts of it! It&amp;rsquo;s like a static friction that you might feel, simply because you are not used to what follows. I think that might be the reason why I am struggling now with the sentences I should write about starting this blog, to talk about what is the context behind it, why am I doing it and what I want to achieve.&lt;/p>
 &lt;p>Now, here is me, a mere individual, a software developer, puzzle lover, science oriented person, facing a change in how I am looking at the world around me. In my early 30s, I am noticing that the way I built my thought and the way they try to make sense of what I see, frankly doesn&amp;rsquo;t work! You see, although I am good at solving puzzles, understanding mathematics and programming logical machines, up until now, just conveying a message or a thought on a subject clearly and in a convincing way, has been and still is a challenge for me. Never before, it had accrued to me that it might be that my thoughts are not well organized. That simply my reasoning behind matters is not concrete enough. Or intellectually, I might not be as capable as I think I am.&lt;/p>
 &lt;p>You might wonder why in the first place one overestimates his own capability? Well, that might be coming out of ego. You see, you might reach success in an area or understand a complex system which a small number of people can comprehend. But then, the feeling of euphoria you get as a reward makes you think that other things, specially the ones that a large number of people have opinions about, are just below you! And because of that, you will not care enough to spend time building your thought logically and practically around the subjects.&lt;/p>
 &lt;p>Let me explain why I feel I need to have convincing arguments for the subjects that I want to talk about. I am going to use an analogy here. I think our heads are like kitchens full of ingredients and appliances for cooking arguments. Those ingredients, are different ideas that you agreed with throughout your life. And those arguments that you cook, if convincing, will become an idea of its own which you will use later as an ingredient for other arguments. The more ingredients you have access to, the more foods you can cook meaning the more convincing arguments you can come up with. The appliances are like the reasoning behind your thought that is what you can use to mix your ideas together and make the arguments possible. The stronger the appliances, the better cooking process and a better quality for your final product which are your arguments. But that&amp;rsquo;s not all! As important as it is to have good ingredients and appliances, you must have a well-organized kitchen as well! If your kitchen is a mess, you cannot access your ingredients in time and that will affect your cooking! There will be those times, when you want to make a point and you look for the right thing to say but you cannot find the words because of the messy place! You swear, the right words are there somewhere because you know you have agreed with that idea before. But you cannot find it to add it to your argument and that will mess up the whole thing!&lt;/p>
-&lt;p>Now, one might say, if you feel it when there is an idea somewhere in your head that complements your argument, is it that important to find it? I mean, it might be that you only need to know that your argument makes sense for yourself and it is not your goal to convince others. And here is the tricky part. Because feelings can have errors! It is equally probable that you get the same feeling but you are mistaking it with something else that is not applicable it the current argument. Other than that, it might also be the case that the idea that you are looking for is in between other ideas and for the argument to make sense, it should be connected to another idea. But you cannot do that connecting unless you find what that idea was. In other words, reasoning and finding the relations between your ideas is a continuos act. If you simply trust your gut that this reasoning is valid, it will easily be prone to errors and you might end up believing that there is no problem with what you built in your head meanwhile your ideas have flaws.&lt;/p>
+&lt;p>Now, one might say, if you feel it when there is an idea somewhere in your head that complements your argument, is it that important to find it? I mean, it might be that you only need to know that your argument makes sense for yourself and it is not your goal to convince others. And here is the tricky part. Because feelings can have errors! It is equally probable that you get the same feeling but you are mistaking it with something else that is not applicable it the current argument. Other than that, it might also be the case that the idea that you are looking for is in between other ideas and for the argument to make sense, it should be connected to another idea. But you cannot do that connecting unless you find what that idea was. In other words, reasoning and finding the relations between your ideas is a continuous act. If you simply trust your gut that this reasoning is valid, it will easily be prone to errors and you might end up believing that there is no problem with what you built in your head meanwhile your ideas have flaws.&lt;/p>
 &lt;p>Next question, why is it important to have well-structured ideas in your head? Can&amp;rsquo;t you live without it? Answer? Of-course you can. But I just like being consistent! It feels good. I would like my actions to be justifiable. I would like to analyze myself and be better at whatever I want to do. I think that would give me more power and it makes me more dependable. But that&amp;rsquo;s just my two cents.&lt;/p>
 &lt;p>Now that I acknowledge this fact that my thoughts needs re-ordering and they should be based on concrete facts and reasoning, what does it have to do with writing a blog?? Well, I do this blog as a service to myself. I will try writing about my ideas, and while I do that, it will give me an opportunity to think about them deeply and rationally because while you try to convey your thoughts, you have to explain it in clear words and there is no way around it. You are no longer in your head deceiving yourself that your idea makes total sense. When you put it in words you have to revise it over and over and you will introduce yourself to the nuances that you were not thinking about before. Forcing you to look at it from various angles.&lt;/p>
 &lt;p>What would this blog about? It will not have any boundaries. Anything from technology, philosophy, history or just random thoughts might appear here.&lt;/p>
@@ -37,36 +22,4 @@ var gc = document.createElement('script'); gc.type = 'text/javascript'; gc.async
 gc.onload = __semio__onload; gc.defer = true; gc.src = 'https://integration.graphcomment.com/gc_graphlogin.js?' + Date.now();
 (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(gc);
 })();
-&lt;/script></content></item><item><title>My Second Post</title><link>https://zimablur.com/posts/my-second-post/</link><pubDate>Tue, 25 Jan 2022 17:55:31 +0200</pubDate><guid>https://zimablur.com/posts/my-second-post/</guid><description>Hi! How are you again!</description><content>&lt;p>Hi! How are you again!
-&lt;div id="graphcomment">&lt;/div>
-&lt;script type="text/javascript">
-var __semio__params = {
-graphcommentId: "zimablur",
-behaviour: {
-},
-}
-function __semio__onload() {
-__semio__gc_graphlogin(__semio__params)
-}
-(function() {
-var gc = document.createElement('script'); gc.type = 'text/javascript'; gc.async = true;
-gc.onload = __semio__onload; gc.defer = true; gc.src = 'https://integration.graphcomment.com/gc_graphlogin.js?' + Date.now();
-(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(gc);
-})();
-&lt;/script>&lt;/p></content></item><item><title>My First Post</title><link>https://zimablur.com/posts/my-first-post/</link><pubDate>Fri, 21 Jan 2022 20:01:31 +0200</pubDate><guid>https://zimablur.com/posts/my-first-post/</guid><description>Hi! How are you</description><content>&lt;p>Hi! How are you
-&lt;div id="graphcomment">&lt;/div>
-&lt;script type="text/javascript">
-var __semio__params = {
-graphcommentId: "zimablur",
-behaviour: {
-},
-}
-function __semio__onload() {
-__semio__gc_graphlogin(__semio__params)
-}
-(function() {
-var gc = document.createElement('script'); gc.type = 'text/javascript'; gc.async = true;
-gc.onload = __semio__onload; gc.defer = true; gc.src = 'https://integration.graphcomment.com/gc_graphlogin.js?' + Date.now();
-(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(gc);
-})();
-&lt;/script>&lt;/p></content></item></channel></rss>
+&lt;/script></content></item></channel></rss>
